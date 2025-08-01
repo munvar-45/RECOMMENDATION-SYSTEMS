@@ -37,3 +37,4 @@ Overall, I built a mini product recommender just like Amazon — simple, clean, 
 #output:
 
 
+![Image](https://github.com/user-attachments/assets/2f11f253-4578-47fd-a9a4-407c9623573e)
